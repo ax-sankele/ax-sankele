@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Schuyler
-- 👀 I’m interested in all things software dev
+
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
